@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](hhttps://github.com/KevinBolanosDev/blog-preview-card-frontend-mentor)
+- Live Site URL: [Site GitHub Pages](https://kevinbolanosdev.github.io/blog-preview-card-frontend-mentor/)
 
 ## My process
 
@@ -49,5 +49,5 @@ I learned to use variable fonts like the "font-face" property and ".ttf" files f
 
 ## Author
 
-- Website - [https://kevin-bolanos-dev-cv.netlify.app/]
-- Frontend Mentor - [https://www.frontendmentor.io/profile/KevinBolanosDev]
+- Website - [Kevin Andrés Bolaños](https://kevin-bolanos-dev-cv.netlify.app/)
+- Frontend Mentor - [@KevinBolanosDev](https://www.frontendmentor.io/profile/KevinBolanosDev)

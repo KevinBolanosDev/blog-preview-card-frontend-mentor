@@ -13,17 +13,17 @@ body {
 
 @font-face {
     font-family: 'Figtree Semibold';
-    src: url(/assets/fonts/static/Figtree-SemiBold.ttf);
+    src: url(assets/fonts/static/Figtree-SemiBold.ttf);
 }
 
 @font-face {
     font-family: 'Figtree UltraBold';
-    src: url(/assets/fonts/static/Figtree-ExtraBold.ttf);
+    src: url(assets/fonts/static/Figtree-ExtraBold.ttf);
 }
 
 @font-face {
     font-family: 'Figtree Light';
-    src: url(/assets/fonts/Figtree-VariableFont_wght.ttf);
+    src: url(assets/fonts/Figtree-VariableFont_wght.ttf);
 }
 
 .container {
