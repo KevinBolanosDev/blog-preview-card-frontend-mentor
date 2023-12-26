@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub](hhttps://github.com/KevinBolanosDev/blog-preview-card-frontend-mentor)
+- Solution URL: [GitHub](https://github.com/KevinBolanosDev/blog-preview-card-frontend-mentor)
 - Live Site URL: [Site GitHub Pages](https://kevinbolanosdev.github.io/blog-preview-card-frontend-mentor/)
 
 ## My process
